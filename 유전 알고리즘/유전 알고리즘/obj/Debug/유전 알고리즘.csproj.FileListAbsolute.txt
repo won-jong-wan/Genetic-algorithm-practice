@@ -1,0 +1,6 @@
+c:\users\wjw\documents\visual studio 2017\Projects\유전 알고리즘\유전 알고리즘\bin\Debug\유전 알고리즘.exe.config
+c:\users\wjw\documents\visual studio 2017\Projects\유전 알고리즘\유전 알고리즘\bin\Debug\유전 알고리즘.exe
+c:\users\wjw\documents\visual studio 2017\Projects\유전 알고리즘\유전 알고리즘\bin\Debug\유전 알고리즘.pdb
+c:\users\wjw\documents\visual studio 2017\Projects\유전 알고리즘\유전 알고리즘\obj\Debug\유전 알고리즘.csprojResolveAssemblyReference.cache
+c:\users\wjw\documents\visual studio 2017\Projects\유전 알고리즘\유전 알고리즘\obj\Debug\유전 알고리즘.exe
+c:\users\wjw\documents\visual studio 2017\Projects\유전 알고리즘\유전 알고리즘\obj\Debug\유전 알고리즘.pdb
